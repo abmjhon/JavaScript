@@ -1,0 +1,22 @@
+let nome = "Jhonata",
+    idade = 17,
+    altura = 1.72,
+    homem = true;
+
+console.log(nome)
+console.log(idade)
+console.log(altura) 
+console.log(homem)
+
+// let = varíavel que pode ser mudada futuramente.
+// const = varíavel constante, que não pode ser mudada de maneira alguma.
+
+    nome = "Gabriela",
+    idade = 16,
+    altura = 1.65,
+    homem = false;
+
+console.log(nome)
+console.log(idade)
+console.log(altura) 
+console.log(homem)
