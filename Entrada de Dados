@@ -1,0 +1,10 @@
+// Entrada de dados
+
+const prompt = require('readline-sync');
+
+
+const nome = prompt.question("Qual é o seu nome: ")
+const idade = prompt.question("Qual é a sua idade?: ")
+const idadeNumber = Number(idade);
+
+console.log("O usuário", nome,  "tem", idade ,"anos de idade.");
